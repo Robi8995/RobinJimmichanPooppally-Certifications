@@ -18,3 +18,13 @@ Showcasing all professional certifications completed by **Robin Jimmichan P** in
 > **Note:** Click on any image to view it full-size. All certificates are authentic and verifiable via the respective issuing organizations.
 
 
+![Business-Analytics-with-AI](https://github.com/user-attachments/assets/f05db5d2-0927-4302-9878-ac49f20724f1)
+![NSDC-Certificate](https://github.com/user-attachments/assets/0a9fd63d-f726-4174-ba12-d9854c7d3b3e)
+<img width="826" height="562" alt="Data-Analyst-Certificate" src="https://github.com/user-attachments/assets/dc2d9693-4a47-4d26-a640-8792fd4428ab" />
+![IBM-Data-Classification-Certificate](https://github.com/user-attachments/assets/7e73bd85-7303-4b5a-bc83-4488d93648db)
+![IBM-AI-Fundamentals-Certificate](https://github.com/user-attachments/assets/1c44bdc1-58a6-46a8-b360-a5dc77795a0c)
+<img width="910" height="640" alt="Business-Analysis-Basics" src="https://github.com/user-attachments/assets/36dba3be-9d30-4f25-97b5-2bd573438729" />
+![Business-Analyst-Assessment](https://github.com/user-attachments/assets/711c31a4-b80d-4a3e-8e3e-4b1f596e5999)
+<img width="918" height="599" alt="PowerBI-Workshop" src="https://github.com/user-attachments/assets/6d0a6d3c-664a-412d-99a2-02b1f8eedf9e" />
+![Java-Certificate](https://github.com/user-attachments/assets/21757e60-71bb-4bd0-b0ba-0f1d6a9d3606)
+![Python-Certificate](https://github.com/user-attachments/assets/758b9ccb-203e-429f-823c-783c1d33a755)
